@@ -1,14 +1,14 @@
 import setuptools
 
 setuptools.setup(
-    name="etsy_scrappers",
+    name="webshare",
     version="0.1.0",
     author="Vadim Makarov",
     author_email="add4che@gmail.com",
     description="",
     long_description="",
     long_description_content_type="text/markdown",
-    url="https://github.com/run4w4y/etsy_scrappers",
+    url="https://github.com/run4w4y/webshare",
     packages=setuptools.find_packages(),
     install_requires=[
         'httpx',
